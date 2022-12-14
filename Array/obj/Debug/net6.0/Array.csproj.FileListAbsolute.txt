@@ -1,0 +1,15 @@
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.csproj.AssemblyReference.cache
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.AssemblyInfoInputs.cache
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.AssemblyInfo.cs
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.csproj.CoreCompileInputs.cache
+/Users/helenhelen/Massiv/Array/bin/Debug/net6.0/Array
+/Users/helenhelen/Massiv/Array/bin/Debug/net6.0/Array.deps.json
+/Users/helenhelen/Massiv/Array/bin/Debug/net6.0/Array.runtimeconfig.json
+/Users/helenhelen/Massiv/Array/bin/Debug/net6.0/Array.dll
+/Users/helenhelen/Massiv/Array/bin/Debug/net6.0/Array.pdb
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.dll
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/refint/Array.dll
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.pdb
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/Array.genruntimeconfig.cache
+/Users/helenhelen/Massiv/Array/obj/Debug/net6.0/ref/Array.dll
